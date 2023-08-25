@@ -1,0 +1,8 @@
+[[CURRENCIES]]
+
+issuer public key="GCCMSSXYMUYNDCP6TOI3BQQJCNWS7FOVB7MP5VQWZX4ZLV6RDALNTI65"
+display_decimals=8
+Token name="KD526"
+desc="A stellar token asset"
+conditions="Can mint a max 1000 to receiving account"
+Token image URL="https://en.numista.com/catalogue/photos/tokens/50597-original.jpg"
