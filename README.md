@@ -8,7 +8,7 @@ such as transaction timestamp, transaction data and hash etc.
  Has methods to view all blocks in the chain
  Has a mine method, which simulates mining using a simple proof of work consensus algorithm 
 
-# intall stellar-SDK 
+# install stellar-SDK 
 => npm install stellar-SDK@latest
 
  # RUN blockchain.js file on terminal
